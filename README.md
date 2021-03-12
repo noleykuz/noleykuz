@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Emmanuel 
-
+![noleykuz img](/img/yoo.jpg)
+format:![Alt Text](url)
 <!--
 **noleykuz/noleykuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
